@@ -49,3 +49,6 @@ app.*.map.json
 *.env
 node_modules/
 *.curl
+app/pubspec.lock
+server/package-lock.json
+app/.metadata
