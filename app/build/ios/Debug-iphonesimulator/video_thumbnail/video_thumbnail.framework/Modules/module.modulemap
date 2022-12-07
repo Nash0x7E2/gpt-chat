@@ -1,0 +1,6 @@
+framework module video_thumbnail {
+  umbrella header "video_thumbnail-umbrella.h"
+
+  export *
+  module * { export * }
+}
